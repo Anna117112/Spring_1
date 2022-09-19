@@ -12,6 +12,7 @@ public class Archive {
     Integer res = 0;
     Random random = new Random();
 
+
     public Archive(){
         res = random.nextInt();
     }

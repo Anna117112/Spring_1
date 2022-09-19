@@ -13,7 +13,6 @@ public class Client {
 //        registry.registryVisits();
 
 
-
         ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
        Patient patient =  context.getBean("patient", Patient.class);
         Patient patient2 =  context.getBean("patient", Patient.class);

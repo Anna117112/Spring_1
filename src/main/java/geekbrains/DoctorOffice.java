@@ -11,7 +11,6 @@ public class DoctorOffice {
     Random random = new Random();
 
 
-
 public DoctorOffice(){
     res = random.nextInt();
 }
