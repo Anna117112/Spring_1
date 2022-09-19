@@ -14,7 +14,6 @@ public class Patient {
     private DoctorOffice doctorOffice;
 
 
-
         Integer res = 0;
         Random random = new Random();
 

@@ -10,7 +10,7 @@ public class AppConfig {
 //    public Archive archive (){
 //        return new Archive ();
 //    }
-//
+
 //
 //    @Bean(name = "doctorOffice")
 //    public DoctorOffice doctorOffice(){
